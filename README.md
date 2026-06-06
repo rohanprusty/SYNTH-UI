@@ -114,5 +114,3 @@ function App() {
 * **Export:** Preview the AI-generated React code, copy it, and paste it directly into your own project files.
 
 ---
-
-*Inspired by the "Build AI-Powered UI Library" MERN Stack tutorial by VIRTUAL CODE.*
